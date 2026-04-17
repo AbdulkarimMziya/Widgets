@@ -51,6 +51,13 @@
 			);
 			target = 4D2DF5402F902774004F502E /* DayProgressWidgetExtension */;
 		};
+		4D2DF5682F918B70004F502E /* Exceptions for "DayProgressWidget" folder in "DayProgress" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				WidgetConfigurationOptions.swift,
+			);
+			target = 4D2DF52E2F902410004F502E /* DayProgress */;
+		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -62,6 +69,7 @@
 		4D2DF5472F902774004F502E /* DayProgressWidget */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
+				4D2DF5682F918B70004F502E /* Exceptions for "DayProgressWidget" folder in "DayProgress" target */,
 				4D2DF5522F902775004F502E /* Exceptions for "DayProgressWidget" folder in "DayProgressWidgetExtension" target */,
 			);
 			path = DayProgressWidget;
